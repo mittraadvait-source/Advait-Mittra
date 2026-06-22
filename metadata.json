@@ -1,0 +1,6 @@
+{
+  "name": "AI Stock Evaluation Model",
+  "description": "An AI-powered equity research terminal for stock analysis and valuation sensitivity modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
